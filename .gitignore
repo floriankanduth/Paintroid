@@ -36,3 +36,5 @@ fastlane/*
 !fastlane/staticContent/
 Gemfile
 Gemfile.lock
+
+#test
